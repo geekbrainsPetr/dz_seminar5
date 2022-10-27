@@ -156,3 +156,5 @@ int [] myArray = RandomArray(a);
 ShowArray(myArray);
 int result = CountsEven(myArray);
 Console.WriteLine($"В этом массиве количество четных чисел -> {result}");
+
+//
